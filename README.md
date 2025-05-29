@@ -2,7 +2,9 @@
 ## Hi there, I'm Priscilla Nzula 👋
 
 ## About Me
-A data analyst and scientist with 5+ years of experience in the corporate sector, leveraging self-directed projects to develop skills in data analysis and statistical modeling to drive business insights. Skilled in MySQL Databases, SQL, Power BI, Python, data visualization and predictive modeling with a strong foundation in uncovering actionable insights from complex datasets.
+🚀 Data Scientist turning insights into code | 5+ years corporate experience
+Bridging the gap between data analytics and modern software development through hands-on projects. From SQL queries to interactive web apps, I build solutions that make data come alive. Currently exploring web development and AI-powered software engineering to create the next generation of data-driven applications.
+💡 Where data meets creativity, magic happens ✨
 
 
 ## 🛠 Technical Skills
