@@ -5,6 +5,7 @@
 🚀 Data Analyst & Scientist turning insights into code | 5+ years corporate experience
 
 Bridging the gap between data analytics and modern software development through hands-on projects. From SQL queries to interactive web apps, I build solutions that make data come alive. Currently exploring web development and AI-powered software engineering to create the next generation of data-driven applications.
+
 💡 Where data meets creativity, magic happens ✨
 
 
