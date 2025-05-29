@@ -11,8 +11,9 @@ A data analyst and scientist with 5+ years of experience in the corporate sector
 - SQL (complex querying, database design)
 - Excel, Power BI (Data Visualization)
 - Machine Learning: Predictive Modelling, Feature Engineering
+- AI for Software Engineering: Web/app development, vibe coding
 - Statistical Modelling (Regression analysis)
-- Tools: Jupyter Notebook, VS Code, Google Colab
+- Tools: Jupyter Notebook, VS Code, Google Colab.
 
 ## 🔮 Core Competencies
 
