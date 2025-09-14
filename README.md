@@ -2,31 +2,45 @@
 ## Hi there, I'm Priscilla Nzula 👋
 
 ## About Me
-🚀 Data Analyst & Scientist turning insights into code | 5+ years corporate experience
+A Data Scientist skilled in python and machine learning | 5+ years corporate experience
 
-Bridging the gap between data analytics and modern software development through hands-on projects. From SQL queries to interactive web apps, I build solutions that make data come alive. Currently exploring web development and AI-powered software engineering to create the next generation of data-driven applications.
-
-💡 Where data meets creativity, magic happens ✨
+I specialize in data analysis  using python  from data collection → data cleaning and preparation → exploration with statistics and visualization → feauture engineering → insights generation to communication of findings through reports.
+With a strong background in machine learning and it's workflow; Problem definition → data preparation and splitting → feauture engineering and features selection → training models → model evaluation → performance optimization → model deployment.
 
 
 ## 🛠 Technical Skills
 
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib)
-- SQL (complex querying, database design)
-- Excel, Power BI (Data Visualization)
-- Machine Learning: Predictive Modelling, Feature Engineering
-- AI for Software Engineering: Web/app development, vibe coding
-- Statistical Modelling (Regression analysis)
-- Tools: Jupyter Notebook, VS Code, Google Colab.
+       - Programming & Data Analysis: Python, Pandas, NumPy, Exploratory Data Analysis (EDA)
 
-## 🔮 Core Competencies
+       - Machine Learning: Predictive modeling, classification, regression, clustering, feature engineering, model evaluation
 
-- Data Analysis & Insights: Extracting, cleaning, and analyzing complex datasets
-- Data Visualization & Communication: Creating compelling visualizations for technical and non-technical audiences
-- Machine Learning & Predictive Modeling: Developing models for prediction and optimization
-- Programming & Database Management: Strong foundation in Python and SQL
-- Tools & Platforms: Expertise in Tableau, Power BI, Jupyter Notebook, and Git/GitHub
-- Collaboration: Proven ability to work effectively with peers on various projects
+       - Deep Learning & Computer Vision: Image classification.
+
+       - Data Visualization: Matplotlib, Seaborn, Plotly
+
+       - Databases & Data Engineering: Schema design, CRUD operations, relational datasets
+
+       - Model Deployment & ML Workflows: Training, testing, deployment, end-to-end applied ML projects
+
+       - Tools & Platforms: Jupyter Notebook, Google Colab, VS Code, Git, GitHub
+
+
+
+https://github.com/user-attachments/assets/491456a3-c071-484e-80b8-0467cd4c8589
+
+
+
+https://github.com/user-attachments/assets/3da5b71e-9169-4658-ae4a-3ad8f494081a
+
+
+
+https://github.com/user-attachments/assets/9ff61f08-9d47-4c09-9a26-1c18d2602a39
+
+
+
+https://github.com/user-attachments/assets/66c9170b-b94f-44e5-a67d-d9995a665dcd
+
+
 
 ## 📱 Let's Connect!
 
@@ -34,6 +48,6 @@ Bridging the gap between data analytics and modern software development through 
 - 👔 [LinkedIn](https://www.linkedin.com/in/priscilla-nzula)
 - 🌐 [GitHub](https://github.com/priscillanzula)
 
----
+
 
 "Data driven insights!"
