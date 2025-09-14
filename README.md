@@ -10,19 +10,19 @@ With a strong background in machine learning and it's workflow; Problem definiti
 
 ## 🛠 Technical Skills
 
-       - Programming & Data Analysis: Python, Pandas, NumPy, Exploratory Data Analysis (EDA)
+- Programming & Data Analysis: Python, Pandas, NumPy, Exploratory Data Analysis (EDA)
 
-       - Machine Learning: Predictive modeling, classification, regression, clustering, feature engineering, model evaluation
+- Machine Learning: Predictive modeling, classification, regression, clustering, feature engineering, model evaluation.
+  
+- Deep Learning & Computer Vision: Image classification.
+  
+- Data Visualization: Matplotlib, Seaborn, Plotly
 
-       - Deep Learning & Computer Vision: Image classification.
+- Databases & Data Engineering: Schema design, CRUD operations, relational datasets
 
-       - Data Visualization: Matplotlib, Seaborn, Plotly
+- Model Deployment & ML Workflows: Training, testing, deployment, end-to-end applied ML projects
 
-       - Databases & Data Engineering: Schema design, CRUD operations, relational datasets
-
-       - Model Deployment & ML Workflows: Training, testing, deployment, end-to-end applied ML projects
-
-       - Tools & Platforms: Jupyter Notebook, Google Colab, VS Code, Git, GitHub
+- Tools & Platforms: Jupyter Notebook, Google Colab, VS Code, Git, GitHub
 
 
 
