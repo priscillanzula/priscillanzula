@@ -26,21 +26,6 @@ With a strong background in machine learning and it's workflow; Problem definiti
 
 
 
-https://github.com/user-attachments/assets/491456a3-c071-484e-80b8-0467cd4c8589
-
-
-
-https://github.com/user-attachments/assets/3da5b71e-9169-4658-ae4a-3ad8f494081a
-
-
-
-https://github.com/user-attachments/assets/9ff61f08-9d47-4c09-9a26-1c18d2602a39
-
-
-
-https://github.com/user-attachments/assets/66c9170b-b94f-44e5-a67d-d9995a665dcd
-
-
 
 ## 📱 Let's Connect!
 
